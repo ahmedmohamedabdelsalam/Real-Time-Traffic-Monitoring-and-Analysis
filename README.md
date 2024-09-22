@@ -2,7 +2,7 @@
 
 ---
 
-**Week 1: SQL Database and Data Collection**
+**Part 1: SQL Database and Data Collection**
 **Tasks:**
 - **Database Design**: Create a SQL database schema for managing traffic data, with tables for:
   - Traffic sensors
@@ -24,7 +24,7 @@
 
 ---
 
-**Week 2: Data Warehouse and Python Integration**
+**Part 2: Data Warehouse and Python Integration**
 **Tasks:**
 - **Data Warehouse**: Set up a **data warehouse** to handle and store large volumes of traffic data for analysis.
 - **ETL Process**: Implement ETL (Extract, Transform, Load) to load traffic data into the data warehouse.
@@ -39,7 +39,7 @@
 
 ---
 
-**Week 3: Traffic Analysis and Azure Services**
+**Part 3: Traffic Analysis and Azure Services**
 **Tasks:**
 - **Traffic Analysis**: Analyze real-time traffic using Python for:
   - Traffic flow monitoring
@@ -57,7 +57,7 @@
 
 ---
 
-**Week 4: MLOps and Deployment**
+**Part 4: MLOps and Deployment**
 **Tasks:**
 - **MLOps**: Use **MLflow** to manage, track, and version traffic analysis models.
 - **Deployment**: Deploy the traffic analysis model using a real-time service or dashboard for:
