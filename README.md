@@ -1,4 +1,4 @@
-**Project Idea 4: Real-Time Traffic Monitoring and Analysis**
+**Real-Time Traffic Monitoring and Analysis**
 
 ---
 
