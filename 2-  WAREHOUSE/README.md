@@ -1,4 +1,5 @@
-# Week 2: Data Warehouse and Python Integration ## Overview This project focuses on setting up a data warehouse to handle and analyze large volumes of traffic data. It involves the use of ETL processes to load the data into the warehouse and the implementation of Python scripts for data extraction, preprocessing, and preparation for analysis.
+# Week 2: Data Warehouse and Python Integration 
+## Overview This project focuses on setting up a data warehouse to handle and analyze large volumes of traffic data. It involves the use of ETL processes to load the data into the warehouse and the implementation of Python scripts for data extraction, preprocessing, and preparation for analysis.
 
 ## Tasks - **Data Warehouse Setup**: Establish a Microsoft SQL Data Warehouse for storing and analyzing traffic data.
 - **Data Loading**: Utilize ETL (Extract, Transform, Load) processes to load traffic data into the warehouse.
