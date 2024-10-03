@@ -53,16 +53,3 @@ pip install Flask
 3. Run the Flask app
 python app.py
 
-
-
-### Instructions:
-- Replace `yourusername` with your GitHub username in the clone link.
-- Customize the folder structure and filenames according to your actual project.
-- Add dependencies to the `requirements.txt` for the Python libraries used in the project (e.g., Flask, MLflow).
-- Include links to any relevant Azure setup instructions for deploying the Flask application.
-
-This `README.md` outlines your MLOps process, model deployment, and deliverables clearly for anyone viewing your project on GitHub.
-
-
-
-
