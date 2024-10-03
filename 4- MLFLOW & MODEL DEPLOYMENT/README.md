@@ -49,6 +49,9 @@ pip install mlflow
 pip install Flask
 *Run the Flask app*
 python app.py
+<!--
+### Clone the Repository
+```bash
 
 **How to Use the Project**
 Run Traffic Analysis: Perform traffic analysis and develop the model by running the Python scripts.
