@@ -43,12 +43,14 @@ cd mlops-traffic-analysis
 
 **Install Required Python Libraries**
 pip install -r requirements.txt
-**1. Install MLflow**
+
+1. Install MLflow
 pip install mlflow
-**Setting up the Flask Application**
-*Install Flask*
+
+2. Install Flask
 pip install Flask
-*Run the Flask app*
+
+3. Run the Flask app
 python app.py
 
 
