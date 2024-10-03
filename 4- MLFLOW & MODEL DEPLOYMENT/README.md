@@ -49,7 +49,7 @@ pip install mlflow
 pip install Flask
 *Run the Flask app*
 python app.py
-<!--
+
 ### Clone the Repository
 ```bash
 
