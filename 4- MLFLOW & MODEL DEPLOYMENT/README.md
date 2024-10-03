@@ -40,6 +40,7 @@ This project focuses on integrating **MLOps** practices using **MLflow** for man
 ```bash
 git clone https://github.com/yourusername/mlops-traffic-analysis.git
 cd mlops-traffic-analysis
+
 **Install Required Python Libraries**
 pip install -r requirements.txt
 **1. Install MLflow**
@@ -51,8 +52,7 @@ pip install Flask
 python app.py
 
 
-
-**How to Use the Project**
+## How to Use the Project
 Run Traffic Analysis: Perform traffic analysis and develop the model by running the Python scripts.
 Deploy the Model: Deploy the model using the Flask web framework for real-time traffic monitoring.
 
